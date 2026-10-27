@@ -17,3 +17,6 @@ Minha Caixa de Ferramentas:
 * Ferramentas e Boas Práticas: Git, GitHub, Docker, Código Limpo.
 
 Sinta-se à vontade para explorar meus repositórios de projetos! Estou totalmente aberta a conexões, feedbacks e oportunidades de estágio.
+
+[📩 Entre em contato comigo pelo LinkedIn] - (www.linkedin.com/in/nicole-resende-coelho)
+
