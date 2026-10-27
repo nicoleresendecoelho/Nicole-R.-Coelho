@@ -1,4 +1,4 @@
-# Nicole-R.-Coelho
+# Nicole R. Coelho
 Olá! Sou Desenvolvedora Back-end focada em Python e Automação, unindo o desenvolvimento de software robusto à otimização de processos em nuvem. Estou em constante evolução técnica e buscando minha primeira oportunidade no mercado. 
 
 Construo APIs de alta performance, manipulo dados estruturados com SQL e desenvolvo fluxos automatizados inteligentes integrando scripts e ferramentas de workflow. 
@@ -16,4 +16,4 @@ Minha Caixa de Ferramentas:
 * Dados e Nuvem: SQL (PostgreSQL/MySQL), AWS (serviços principais).
 * Ferramentas e Boas Práticas: Git, GitHub, Docker, Código Limpo.
 
-Sinta-se à vontade para explorar meus repositórios de projetos! Estou totalmente aberta a conexões, feedbacks e oportunidades de estágio ou júnior.
+Sinta-se à vontade para explorar meus repositórios de projetos! Estou totalmente aberta a conexões, feedbacks e oportunidades de estágio.
